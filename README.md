@@ -1,4 +1,4 @@
-# NLProductRecommendationSystem
+# NLPProductRecommendationSystem
 Sentiment Based Product Recommendation System Using NLP and ML
 
 Problem Statement
